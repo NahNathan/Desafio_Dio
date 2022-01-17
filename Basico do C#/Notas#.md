@@ -1,1 +1,1 @@
-Bom, eu não vi ainda a parte do C#, mas **ouvi falar** que é parecido com o C, então ta de boas
+#Bom, eu não vi ainda a parte do C#, mas **ouvi falar** que é parecido com o C, então não estou tão preocupado☕

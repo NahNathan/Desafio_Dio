@@ -1,4 +1,4 @@
-###Links Úteis  >>https://git-scm.com/downloads  >>https://github.com/  >> https://youtu.be/3OeO8ORzLK8 (Tutorial de crimes de guerra)
+###Links Úteis  >> [Download do Git](https://git-scm.com/downloads)   >> [Site do GitHub](https://github.com/)  >> [Tutorial de crimes de guerra](https://youtu.be/3OeO8ORzLK8)
 
 ##O Git é um sistema de controle de versões distribuído usado no desenvolvimento de software e para registrar o histórico de edições de qualquer tipo de arquivo.
 Muito útil para salvar e compartilhar coisas e porgramas no GitHub
